@@ -1,0 +1,2 @@
+lidar2rosbag_KITTI
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/jtcx/data_set/kitti/lidar2rosbag/devel -DCMAKE_INSTALL_PREFIX=/home/jtcx/data_set/kitti/lidar2rosbag/install -G Unix Makefiles

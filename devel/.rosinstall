@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jtcx/data_set/kitti/lidar2rosbag/devel/setup.sh
